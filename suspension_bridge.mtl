@@ -1,0 +1,96 @@
+#
+# Wavefront material file: v:\dropbox\turbo squid\landmarks collection\obj\suspension_bridge.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 01/31/2013 09:07:06
+#
+# Bounding box of geometry = (-72.314,1.32424,-20.3989) to (73.8945,29.4968,20.2043).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl MainTruss
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.734118
+	Ks 0.6 0.6 0.550588
+	Ka 0.3 0.3 0.275294
+
+newmtl beam
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 0.917647
+	Ks 0.6 0.6 0.550588
+	Ka 0.3 0.3 0.275294
+
+newmtl bracket
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 0.917647
+	Ks 0.6 0.6 0.550588
+	Ka 0.3 0.3 0.275294
+
+newmtl cable
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.752941 0.752941 0.752941
+	Ks 0.451765 0.451765 0.451765
+	Ka 0.225882 0.225882 0.225882
+
+newmtl green
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.447451 0.524314 0.326667
+	Ks 0 0 0
+	Ka 0.191765 0.224706 0.14
+
+newmtl retaining
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.670588 0.647059 0.588235
+	Ks 0 0 0
+	Ka 0.201176 0.194118 0.176471
+
+newmtl road
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.511373 0.511373 0.511373
+	Ks 0 0 0
+	Ka 0.191765 0.191765 0.191765
+
+newmtl trusses
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.734118
+	Ks 0.6 0.6 0.550588
+	Ka 0.3 0.3 0.275294
+
+newmtl wall
+	Ns 25
+	d 1
+	illum 2
+	Kd 0.792157 0.788235 0.717647
+	Ks 0 0 0
+	Ka 0.237647 0.236471 0.215294
+
+newmtl water
+	Ns 300
+	d 0.6
+	illum 2
+	Kd 0.12 0.238824 0.244706
+	Ks 0.28 0.557255 0.57098
+	Ka 0.12 0.238824 0.244706
+
